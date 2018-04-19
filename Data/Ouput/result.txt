@@ -1,0 +1,25 @@
+ Height AVL:13
+edo26.txt # of matching phrases:544
+abf70402.txt # of matching phrases:529
+edo20.txt # of matching phrases:2
+abf386.txt # of matching phrases:0
+bef1121.txt # of matching phrases:0
+bgt221.txt # of matching phrases:0
+bmu5.txt # of matching phrases:0
+bwa248.txt # of matching phrases:0
+ckh80.txt # of matching phrases:0
+ecu201.txt # of matching phrases:0
+edo14.txt # of matching phrases:0
+ehc229.txt # of matching phrases:0
+erk185.txt # of matching phrases:0
+esv254.txt # of matching phrases:0
+hal10.txt # of matching phrases:0
+hte42.txt # of matching phrases:0
+jrf1109.txt # of matching phrases:0
+prz100.txt # of matching phrases:0
+sra107.txt # of matching phrases:0
+sra119.txt # of matching phrases:0
+sra126.txt # of matching phrases:0
+sra31.txt # of matching phrases:0
+sra42.txt # of matching phrases:0
+tyc12.txt # of matching phrases:0
